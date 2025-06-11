@@ -1,0 +1,6 @@
+{
+  "jiraDomain": "https://your-domain.atlassian.net",
+  "projectId": "YOUR_PROJECT_ID",
+  "issueTypeId": "YOUR_ISSUE_TYPE_ID",
+  "parentId": "YOUR_PARENT_ISSUE_ID"
+} 

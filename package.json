@@ -1,0 +1,15 @@
+{
+  "name": "jira-ticket",
+  "version": "1.0.0",
+  "description": "Create Jira stories from CSV",
+  "main": "createTickets.js",
+  "type": "commonjs",
+  "scripts": {
+    "start": "node createTickets.js"
+  },
+  "dependencies": {
+    "csv-parser": "^3.0.0",
+    "dotenv": "^16.4.5",
+    "node-fetch": "^2.6.12"
+  }
+}
