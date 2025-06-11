@@ -66,8 +66,6 @@ To process the CSV and (optionally) create Jira tickets:
 node createTicket.js
 ```
 
-> **Note:** By default, ticket creation is commented out for safety. Uncomment the relevant line in `createTicket.js` to enable ticket creation.
-
 ## Development Notes
 - The project uses `.nvmrc` to specify the Node.js version. Run `nvm use` to switch to the correct version.
 - The following files are ignored by Git for security and privacy:
